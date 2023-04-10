@@ -6,7 +6,7 @@
     margin:0px;
     background-image:
     linear-gradient(to bottom, rgb(0, 0, 0, 0), 75%, rgb(240, 240, 240)),
-    url('../img/landing-img.jpg');
+    url("../img/landing-img.jpg");
     padding: 20%;
 }
 #landing h1{
